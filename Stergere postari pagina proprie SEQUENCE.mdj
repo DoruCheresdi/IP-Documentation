@@ -6759,7 +6759,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1168,
+													"left": 864,
 													"height": 13
 												},
 												{
@@ -6769,7 +6769,7 @@
 														"$ref": "AAAAAAGG+93AoBKt8YI="
 													},
 													"font": "Arial;13;1",
-													"left": 701,
+													"left": 549,
 													"top": 47,
 													"width": 64.18994140625,
 													"height": 13,
@@ -6783,7 +6783,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1168,
+													"left": 864,
 													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
@@ -6796,13 +6796,13 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1168,
+													"left": 864,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 696,
+											"left": 544,
 											"top": 40,
 											"width": 74.18994140625,
 											"height": 40,
@@ -6829,14 +6829,14 @@
 												"$ref": "AAAAAAGG+93AoBKrTlw="
 											},
 											"font": "Arial;13;0",
-											"left": 733,
+											"left": 581,
 											"top": 80,
 											"width": 1,
 											"height": 729
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 696,
+									"left": 544,
 									"top": 40,
 									"width": 74.18994140625,
 									"height": 769,
@@ -6875,6 +6875,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
+													"left": -96,
 													"height": 13
 												},
 												{
@@ -6884,7 +6885,7 @@
 														"$ref": "AAAAAAGG+93vZhLRRcE="
 													},
 													"font": "Arial;13;1",
-													"left": 381,
+													"left": 333,
 													"top": 47,
 													"width": 66.32275390625,
 													"height": 13,
@@ -6898,6 +6899,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
+													"left": -96,
 													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
@@ -6910,12 +6912,13 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
+													"left": -96,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 376,
+											"left": 328,
 											"top": 40,
 											"width": 76.32275390625,
 											"height": 40,
@@ -6942,14 +6945,14 @@
 												"$ref": "AAAAAAGG+93vZhLPjjA="
 											},
 											"font": "Arial;13;0",
-											"left": 414,
+											"left": 366,
 											"top": 80,
 											"width": 1,
 											"height": 777
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 376,
+									"left": 328,
 									"top": 40,
 									"width": 76.32275390625,
 									"height": 817,
@@ -6980,7 +6983,7 @@
 												"$ref": "AAAAAAGG+95ejhLwl2A="
 											},
 											"font": "Arial;13;0",
-											"left": 145,
+											"left": 121,
 											"top": 74,
 											"width": 235.5615234375,
 											"height": 13,
@@ -6990,7 +6993,7 @@
 												"$ref": "AAAAAAGG+95ejhLxA+I="
 											},
 											"edgePosition": 1,
-											"text": "1 : Accesare fereastra instant messaging"
+											"text": "1 : Accesare pagina proprie"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -7003,7 +7006,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 262,
+											"left": 238,
 											"top": 59,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -7024,7 +7027,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 262,
+											"left": 238,
 											"top": 94,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -7044,7 +7047,7 @@
 												"$ref": "AAAAAAGG+95ejhLwl2A="
 											},
 											"font": "Arial;13;0",
-											"left": 407,
+											"left": 359,
 											"top": 90,
 											"width": 14,
 											"height": 29
@@ -7057,7 +7060,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+9pkNBKRh7I="
 									},
-									"points": "118:90;407:90",
+									"points": "118:90;359:90",
 									"nameLabel": {
 										"$ref": "AAAAAAGG+95ejhLyHf8="
 									},
@@ -7091,9 +7094,9 @@
 												"$ref": "AAAAAAGG+98IiRMJ1oI="
 											},
 											"font": "Arial;13;0",
-											"left": 357,
+											"left": 299,
 											"top": 131,
-											"width": 192.2197265625,
+											"width": 213.1669921875,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
@@ -7101,7 +7104,7 @@
 												"$ref": "AAAAAAGG+98IiRMKark="
 											},
 											"edgePosition": 1,
-											"text": "2 : Deschidere pagina conversatii"
+											"text": "2 : Afisare pagina utilizator cu postari"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -7114,7 +7117,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 468,
+											"left": 420,
 											"top": 131,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -7135,7 +7138,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 434,
+											"left": 386,
 											"top": 132,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -7155,7 +7158,7 @@
 												"$ref": "AAAAAAGG+98IiRMJ1oI="
 											},
 											"font": "Arial;13;0",
-											"left": 407,
+											"left": 359,
 											"top": 148,
 											"width": 14,
 											"height": 29
@@ -7168,7 +7171,7 @@
 									"tail": {
 										"$ref": "AAAAAAGG+93vZhLW8Zg="
 									},
-									"points": "414:128;444:128;444:148;420:148",
+									"points": "366:128;396:128;396:148;372:148",
 									"nameLabel": {
 										"$ref": "AAAAAAGG+98IiRMLdmI="
 									},
@@ -7181,6 +7184,674 @@
 									"activation": {
 										"$ref": "AAAAAAGG+98IiRMOo2U="
 									}
+								},
+								{
+									"_type": "UMLSeqMessageView",
+									"_id": "AAAAAAGG++GlfxMiCp8=",
+									"_parent": {
+										"$ref": "AAAAAAGG+9pG6RJ72HQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGG++GlfxMhc/c="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++GlfxMjytM=",
+											"_parent": {
+												"$ref": "AAAAAAGG++GlfxMiCp8="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++GlfxMhc/c="
+											},
+											"font": "Arial;13;0",
+											"left": 144,
+											"top": 184,
+											"width": 189.34423828125,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++GlfxMiCp8="
+											},
+											"edgePosition": 1,
+											"text": "3 : Apasare buton sterge postare"
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++GlfxMksrI=",
+											"_parent": {
+												"$ref": "AAAAAAGG++GlfxMiCp8="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++GlfxMhc/c="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 238,
+											"top": 169,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 25,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++GlfxMiCp8="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++GlfxMl5w4=",
+											"_parent": {
+												"$ref": "AAAAAAGG++GlfxMiCp8="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++GlfxMhc/c="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 238,
+											"top": 204,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++GlfxMiCp8="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "UMLActivationView",
+											"_id": "AAAAAAGG++GlfxMmkak=",
+											"_parent": {
+												"$ref": "AAAAAAGG++GlfxMiCp8="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++GlfxMhc/c="
+											},
+											"font": "Arial;13;0",
+											"left": 359,
+											"top": 200,
+											"width": 14,
+											"height": 29
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGG+93vZhLW8Zg="
+									},
+									"tail": {
+										"$ref": "AAAAAAGG+9pkNBKRh7I="
+									},
+									"points": "118:200;359:200",
+									"nameLabel": {
+										"$ref": "AAAAAAGG++GlfxMjytM="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGG++GlfxMksrI="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGG++GlfxMl5w4="
+									},
+									"activation": {
+										"$ref": "AAAAAAGG++GlfxMmkak="
+									}
+								},
+								{
+									"_type": "UMLSeqMessageView",
+									"_id": "AAAAAAGG++IeHhM5LXQ=",
+									"_parent": {
+										"$ref": "AAAAAAGG+9pG6RJ72HQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGG++IeHhM4HFI="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++IeHhM6Lq8=",
+											"_parent": {
+												"$ref": "AAAAAAGG++IeHhM5LXQ="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++IeHhM4HFI="
+											},
+											"font": "Arial;13;0",
+											"left": 287,
+											"top": 235,
+											"width": 237.0087890625,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++IeHhM5LXQ="
+											},
+											"edgePosition": 1,
+											"text": "4 : Afisare pop-up de confirmare stergere"
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++IeHhM76ys=",
+											"_parent": {
+												"$ref": "AAAAAAGG++IeHhM5LXQ="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++IeHhM4HFI="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 420,
+											"top": 235,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 25,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++IeHhM5LXQ="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++IeHhM8zIU=",
+											"_parent": {
+												"$ref": "AAAAAAGG++IeHhM5LXQ="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++IeHhM4HFI="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 386,
+											"top": 236,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++IeHhM5LXQ="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "UMLActivationView",
+											"_id": "AAAAAAGG++IeHhM9n0U=",
+											"_parent": {
+												"$ref": "AAAAAAGG++IeHhM5LXQ="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++IeHhM4HFI="
+											},
+											"font": "Arial;13;0",
+											"left": 359,
+											"top": 252,
+											"width": 14,
+											"height": 29
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGG+93vZhLW8Zg="
+									},
+									"tail": {
+										"$ref": "AAAAAAGG+93vZhLW8Zg="
+									},
+									"points": "366:232;396:232;396:252;372:252",
+									"nameLabel": {
+										"$ref": "AAAAAAGG++IeHhM6Lq8="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGG++IeHhM76ys="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGG++IeHhM8zIU="
+									},
+									"activation": {
+										"$ref": "AAAAAAGG++IeHhM9n0U="
+									}
+								},
+								{
+									"_type": "UMLSeqMessageView",
+									"_id": "AAAAAAGG++JrmBNUc18=",
+									"_parent": {
+										"$ref": "AAAAAAGG+9pG6RJ72HQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGG++JrmBNTSCs="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++JrmBNVaUU=",
+											"_parent": {
+												"$ref": "AAAAAAGG++JrmBNUc18="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++JrmBNTSCs="
+											},
+											"font": "Arial;13;0",
+											"left": 173,
+											"top": 281,
+											"width": 130.7744140625,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++JrmBNUc18="
+											},
+											"edgePosition": 1,
+											"text": "5 : confirmare stergere"
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++JrmBNWU/Y=",
+											"_parent": {
+												"$ref": "AAAAAAGG++JrmBNUc18="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++JrmBNTSCs="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 238,
+											"top": 266,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 25,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++JrmBNUc18="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++JrmBNXcnc=",
+											"_parent": {
+												"$ref": "AAAAAAGG++JrmBNUc18="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++JrmBNTSCs="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 238,
+											"top": 301,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++JrmBNUc18="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "UMLActivationView",
+											"_id": "AAAAAAGG++JrmBNYLeo=",
+											"_parent": {
+												"$ref": "AAAAAAGG++JrmBNUc18="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++JrmBNTSCs="
+											},
+											"font": "Arial;13;0",
+											"left": 359,
+											"top": 297,
+											"width": 14,
+											"height": 29
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGG+93vZhLW8Zg="
+									},
+									"tail": {
+										"$ref": "AAAAAAGG+9pkNBKRh7I="
+									},
+									"points": "118:297;359:297",
+									"nameLabel": {
+										"$ref": "AAAAAAGG++JrmBNVaUU="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGG++JrmBNWU/Y="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGG++JrmBNXcnc="
+									},
+									"activation": {
+										"$ref": "AAAAAAGG++JrmBNYLeo="
+									}
+								},
+								{
+									"_type": "UMLSeqMessageView",
+									"_id": "AAAAAAGG++KcSxNqYuM=",
+									"_parent": {
+										"$ref": "AAAAAAGG+9pG6RJ72HQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGG++KcSxNpBcc="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++KcSxNreA8=",
+											"_parent": {
+												"$ref": "AAAAAAGG++KcSxNqYuM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++KcSxNpBcc="
+											},
+											"font": "Arial;13;0",
+											"left": 413,
+											"top": 320,
+											"width": 114.89892578125,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++KcSxNqYuM="
+											},
+											"edgePosition": 1,
+											"text": "6 : Stergere postare"
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++KcSxNsLh4=",
+											"_parent": {
+												"$ref": "AAAAAAGG++KcSxNqYuM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++KcSxNpBcc="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 470,
+											"top": 305,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 25,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++KcSxNqYuM="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++KcSxNt0bQ=",
+											"_parent": {
+												"$ref": "AAAAAAGG++KcSxNqYuM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++KcSxNpBcc="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 470,
+											"top": 340,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++KcSxNqYuM="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "UMLActivationView",
+											"_id": "AAAAAAGG++KcSxNuc0E=",
+											"_parent": {
+												"$ref": "AAAAAAGG++KcSxNqYuM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++KcSxNpBcc="
+											},
+											"font": "Arial;13;0",
+											"left": 574,
+											"top": 336,
+											"width": 14,
+											"height": 29
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGG+93AoRKy6rM="
+									},
+									"tail": {
+										"$ref": "AAAAAAGG+93vZhLW8Zg="
+									},
+									"points": "366:336;574:336",
+									"nameLabel": {
+										"$ref": "AAAAAAGG++KcSxNreA8="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGG++KcSxNsLh4="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGG++KcSxNt0bQ="
+									},
+									"activation": {
+										"$ref": "AAAAAAGG++KcSxNuc0E="
+									}
+								},
+								{
+									"_type": "UMLSeqMessageView",
+									"_id": "AAAAAAGG++LDHROAMqM=",
+									"_parent": {
+										"$ref": "AAAAAAGG+9pG6RJ72HQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGG++LDHRN//90="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++LDHROBONs=",
+											"_parent": {
+												"$ref": "AAAAAAGG++LDHROAMqM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++LDHRN//90="
+											},
+											"font": "Arial;13;0",
+											"left": 406,
+											"top": 372,
+											"width": 133.66259765625,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++LDHROAMqM="
+											},
+											"edgePosition": 1,
+											"text": "7 : Confirmare stergere"
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++LDHROCvh8=",
+											"_parent": {
+												"$ref": "AAAAAAGG++LDHROAMqM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++LDHRN//90="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 472,
+											"top": 387,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 25,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++LDHROAMqM="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++LDHRODtso=",
+											"_parent": {
+												"$ref": "AAAAAAGG++LDHROAMqM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++LDHRN//90="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 473,
+											"top": 352,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++LDHROAMqM="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "UMLActivationView",
+											"_id": "AAAAAAGG++LDHROEqXM=",
+											"_parent": {
+												"$ref": "AAAAAAGG++LDHROAMqM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++LDHRN//90="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 366,
+											"top": 368,
+											"width": 14,
+											"height": 25
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGG+93vZhLW8Zg="
+									},
+									"tail": {
+										"$ref": "AAAAAAGG+93AoRKy6rM="
+									},
+									"points": "581:368;366:368",
+									"nameLabel": {
+										"$ref": "AAAAAAGG++LDHROBONs="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGG++LDHROCvh8="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGG++LDHRODtso="
+									},
+									"activation": {
+										"$ref": "AAAAAAGG++LDHROEqXM="
+									}
+								},
+								{
+									"_type": "UMLSeqMessageView",
+									"_id": "AAAAAAGG++LtJxOWOjM=",
+									"_parent": {
+										"$ref": "AAAAAAGG+9pG6RJ72HQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGG++LtJxOVzFY="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++LtJxOXa4U=",
+											"_parent": {
+												"$ref": "AAAAAAGG++LtJxOWOjM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++LtJxOVzFY="
+											},
+											"font": "Arial;13;0",
+											"left": 132,
+											"top": 380,
+											"width": 218.93701171875,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++LtJxOWOjM="
+											},
+											"edgePosition": 1,
+											"text": "8 : Afisare pop-up confirmare stergere"
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++LtJxOYZuU=",
+											"_parent": {
+												"$ref": "AAAAAAGG++LtJxOWOjM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++LtJxOVzFY="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 241,
+											"top": 395,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 25,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++LtJxOWOjM="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGG++LtJxOZk90=",
+											"_parent": {
+												"$ref": "AAAAAAGG++LtJxOWOjM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++LtJxOVzFY="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 242,
+											"top": 360,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 10,
+											"hostEdge": {
+												"$ref": "AAAAAAGG++LtJxOWOjM="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "UMLActivationView",
+											"_id": "AAAAAAGG++LtJxOa09Q=",
+											"_parent": {
+												"$ref": "AAAAAAGG++LtJxOWOjM="
+											},
+											"model": {
+												"$ref": "AAAAAAGG++LtJxOVzFY="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 118,
+											"top": 376,
+											"width": 14,
+											"height": 25
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGG+9pkNBKRh7I="
+									},
+									"tail": {
+										"$ref": "AAAAAAGG+93vZhLW8Zg="
+									},
+									"points": "366:376;118:376",
+									"nameLabel": {
+										"$ref": "AAAAAAGG++LtJxOXa4U="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGG++LtJxOYZuU="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGG++LtJxOZk90="
+									},
+									"activation": {
+										"$ref": "AAAAAAGG++LtJxOa09Q="
+									}
 								}
 							]
 						}
@@ -7192,7 +7863,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGG+9pG6BJ6TbE="
 							},
-							"name": "Accesare fereastra instant messaging",
+							"name": "Accesare pagina proprie",
 							"source": {
 								"$ref": "AAAAAAGG+9pkNBKKqcU="
 							},
@@ -7206,13 +7877,99 @@
 							"_parent": {
 								"$ref": "AAAAAAGG+9pG6BJ6TbE="
 							},
-							"name": "Deschidere pagina conversatii",
+							"name": "Afisare pagina utilizator cu postari",
 							"source": {
 								"$ref": "AAAAAAGG+93vZhLPjjA="
 							},
 							"target": {
 								"$ref": "AAAAAAGG+93vZhLPjjA="
 							}
+						},
+						{
+							"_type": "UMLMessage",
+							"_id": "AAAAAAGG++GlfxMhc/c=",
+							"_parent": {
+								"$ref": "AAAAAAGG+9pG6BJ6TbE="
+							},
+							"name": "Apasare buton sterge postare",
+							"source": {
+								"$ref": "AAAAAAGG+9pkNBKKqcU="
+							},
+							"target": {
+								"$ref": "AAAAAAGG+93vZhLPjjA="
+							}
+						},
+						{
+							"_type": "UMLMessage",
+							"_id": "AAAAAAGG++IeHhM4HFI=",
+							"_parent": {
+								"$ref": "AAAAAAGG+9pG6BJ6TbE="
+							},
+							"name": "Afisare pop-up de confirmare stergere",
+							"source": {
+								"$ref": "AAAAAAGG+93vZhLPjjA="
+							},
+							"target": {
+								"$ref": "AAAAAAGG+93vZhLPjjA="
+							}
+						},
+						{
+							"_type": "UMLMessage",
+							"_id": "AAAAAAGG++JrmBNTSCs=",
+							"_parent": {
+								"$ref": "AAAAAAGG+9pG6BJ6TbE="
+							},
+							"name": "confirmare stergere",
+							"source": {
+								"$ref": "AAAAAAGG+9pkNBKKqcU="
+							},
+							"target": {
+								"$ref": "AAAAAAGG+93vZhLPjjA="
+							}
+						},
+						{
+							"_type": "UMLMessage",
+							"_id": "AAAAAAGG++KcSxNpBcc=",
+							"_parent": {
+								"$ref": "AAAAAAGG+9pG6BJ6TbE="
+							},
+							"name": "Stergere postare",
+							"source": {
+								"$ref": "AAAAAAGG+93vZhLPjjA="
+							},
+							"target": {
+								"$ref": "AAAAAAGG+93AoBKrTlw="
+							}
+						},
+						{
+							"_type": "UMLMessage",
+							"_id": "AAAAAAGG++LDHRN//90=",
+							"_parent": {
+								"$ref": "AAAAAAGG+9pG6BJ6TbE="
+							},
+							"name": "Confirmare stergere",
+							"source": {
+								"$ref": "AAAAAAGG+93AoBKrTlw="
+							},
+							"target": {
+								"$ref": "AAAAAAGG+93vZhLPjjA="
+							},
+							"messageSort": "reply"
+						},
+						{
+							"_type": "UMLMessage",
+							"_id": "AAAAAAGG++LtJxOVzFY=",
+							"_parent": {
+								"$ref": "AAAAAAGG+9pG6BJ6TbE="
+							},
+							"name": "Afisare pop-up confirmare stergere",
+							"source": {
+								"$ref": "AAAAAAGG+93vZhLPjjA="
+							},
+							"target": {
+								"$ref": "AAAAAAGG+9pkNBKKqcU="
+							},
+							"messageSort": "reply"
 						}
 					],
 					"participants": [
