@@ -1562,7 +1562,7 @@
 											"top": 518,
 											"width": 97.91259765625,
 											"height": 13,
-											"text": "-ID conversation",
+											"text": "-idConversation",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1929,30 +1929,13 @@
 											"height": 13,
 											"text": "+changeUserDescription()",
 											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAGHTXwWAUmrQio=",
-											"_parent": {
-												"$ref": "AAAAAAGHPOEucZZZc1Y="
-											},
-											"model": {
-												"$ref": "AAAAAAGHTXwV/UmoQAk="
-											},
-											"font": "Arial;13;0",
-											"left": 349,
-											"top": 243,
-											"width": 151.37255859375,
-											"height": 13,
-											"text": "+changeUserPassword()",
-											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 344,
 									"top": 163,
 									"width": 161.37255859375,
-									"height": 98
+									"height": 83
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -7787,7 +7770,7 @@
 											"font": "Arial;13;1",
 											"left": 1069,
 											"top": 599,
-											"width": 106.208984375,
+											"width": 108.01806640625,
 											"height": 13,
 											"text": "CommentService"
 										},
@@ -7822,7 +7805,7 @@
 									"font": "Arial;13;0",
 									"left": 1064,
 									"top": 592,
-									"width": 116.208984375,
+									"width": 118.01806640625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGHZTaAidaqVnY="
@@ -7849,7 +7832,7 @@
 									"font": "Arial;13;0",
 									"left": 1064,
 									"top": 617,
-									"width": 116.208984375,
+									"width": 118.01806640625,
 									"height": 10
 								},
 								{
@@ -7874,17 +7857,34 @@
 											"font": "Arial;13;0",
 											"left": 1069,
 											"top": 632,
-											"width": 106.208984375,
+											"width": 108.01806640625,
 											"height": 13,
 											"text": "+addComment()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGHcuLFHi5u9mQ=",
+											"_parent": {
+												"$ref": "AAAAAAGHZTaAidavcQA="
+											},
+											"model": {
+												"$ref": "AAAAAAGHcuLFDC5NJeQ="
+											},
+											"font": "Arial;13;0",
+											"left": 1069,
+											"top": 647,
+											"width": 108.01806640625,
+											"height": 13,
+											"text": "+deleteComment()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1064,
 									"top": 627,
-									"width": 116.208984375,
-									"height": 23
+									"width": 118.01806640625,
+									"height": 38
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -7923,8 +7923,8 @@
 							"containerChangeable": true,
 							"left": 1064,
 							"top": 592,
-							"width": 116.208984375,
-							"height": 58,
+							"width": 118.01806640625,
+							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAGHZTaAidap8us="
 							},
@@ -7962,7 +7962,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1107,
+									"left": 1108,
 									"top": 558,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -7983,8 +7983,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1092,
-									"top": 557,
+									"left": 1093,
+									"top": 558,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -8004,7 +8004,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1136,
+									"left": 1137,
 									"top": 559,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -8023,7 +8023,7 @@
 								"$ref": "AAAAAAGHZTaAidaoC7k="
 							},
 							"lineStyle": 1,
-							"points": "1122:591;1123:540",
+							"points": "1123:591;1123:540",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGHZTbiI+XQpXc="
@@ -8436,7 +8436,8 @@
 								"$ref": "AAAAAAGHPNDaBpSIItE="
 							},
 							"name": "authoritity",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -9020,9 +9021,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGHPNg0Z5XvvHk="
 							},
-							"name": "ID conversation",
-							"visibility": "private",
-							"type": ""
+							"name": "idConversation",
+							"visibility": "private"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9162,14 +9162,6 @@
 								"$ref": "AAAAAAGHPOEucJZQMMY="
 							},
 							"name": "changeUserDescription"
-						},
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAGHTXwV/UmoQAk=",
-							"_parent": {
-								"$ref": "AAAAAAGHPOEucJZQMMY="
-							},
-							"name": "changeUserPassword"
 						}
 					]
 				},
@@ -9783,7 +9775,8 @@
 								"$ref": "AAAAAAGHZTN6fYhA2bQ="
 							},
 							"name": "id",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9792,7 +9785,8 @@
 								"$ref": "AAAAAAGHZTN6fYhA2bQ="
 							},
 							"name": "idPost",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9801,7 +9795,8 @@
 								"$ref": "AAAAAAGHZTN6fYhA2bQ="
 							},
 							"name": "idUser",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -9853,6 +9848,14 @@
 								"$ref": "AAAAAAGHZTaAidam+JU="
 							},
 							"name": "addComment"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAGHcuLFDC5NJeQ=",
+							"_parent": {
+								"$ref": "AAAAAAGHZTaAidam+JU="
+							},
+							"name": "deleteComment"
 						}
 					]
 				}
